@@ -14,7 +14,7 @@ OpenCore：0.8.8<br/>
 
 暂未发现
 
-## ventura
+## venturas 适配
 
-暂时发现 WIFI 有 bug 只能用`itlwm`驱动，目前无法使用 AIrportItlwm 驱动
+暂时发现 WIFI 有 bug 只能用`itlwm`驱动，目前无法使用 AIrportItlwm 驱动，会无故卡死，先退回来吧
 蓝牙正常驱动
